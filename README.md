@@ -8,19 +8,6 @@ This repository hosts my **full course project** on predicting **protest escalat
 ---
 
 ## 1) Repository structure (current)
-.
-├── data/
-│   ├── events_2021_for_gee.csv
-│   ├── events_2021_with_ntl_2020_5km.csv
-│   ├── events_2022_for_gee.csv
-│   ├── events_2022_with_ntl_2021_5km.csv
-│   ├── events_2023_for_gee.csv
-│   ├── events_2023_with_ntl_2022_5km.csv
-│   ├── events_2024_for_gee.csv
-│   └── events_2024_with_ntl_2023_5km.csv
-├── group_project_final.ipynb
-├── C227_protest_escalation_checkin.pdf
-└── .gitignore
 
 > The `data/` folder currently contains **only the lightweight CSVs** needed to document the workflow and support the check-in notebook.
 
