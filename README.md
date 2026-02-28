@@ -38,9 +38,7 @@ Due to GitHub file-size limits, several large datasets/intermediate artifacts ar
 
 ---
 
-## 4) Scope (in-sample restriction used for modeling)
-
-To ensure stable covariate coverage (especially NTL), the modeling dataset is restricted to:
+## 4) Scope
 
 - **Years:** 2021–2024  
 - **Countries:** Argentina, Brazil, Chile, Colombia, Mexico, Peru
