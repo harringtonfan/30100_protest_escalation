@@ -1,4 +1,4 @@
-# Protest Escalation into Violence (C227) — Project Repo
+# Protest Escalation into Violence — Project Repo
 
 This repository hosts my **full course project** on predicting **protest escalation into violence** using ACLED events, Nighttime Lights (NTL) extracted from Google Earth Engine (GEE), and V-Dem political context variables.
 
